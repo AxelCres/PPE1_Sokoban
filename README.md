@@ -19,6 +19,7 @@ puis rentrer le chemin vers le dossier bin dans java.
 
 ---
 
-Telechargelent instaleur :
+Telechargement instaleur :
 
+Telecharger Soko_setup.exe puis le lancer.
 
